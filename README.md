@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hola, soy Ferna 👋
+Un apasionado por la tecnología y el desarrollo de aplicaciones como así también en el desarrollo y programación de videojuegos.
+En el ámbito académico tuve experiencias programando sitios web, blockchain, chats, videojuegos, entre otros. En el entorno web me ha tocado trabajar tanto en el frontend como backend aunque personalmente me siento más cómodo desarrollando en backend.
+En lo que respecta a lo laboral llevo desarrollando y manteniendo una aplicación web para un sistema de información geográfica (GIS), tanto el aplicativo como los servicios de servidor de capas vectoriales, base de datos, entre otros.
+También he incursionado en el mundo de la criptomoneda y lo cual creo fervientemente que es el futuro financiero.
 
-<!--
-**fernakasa/fernakasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Formación Académica
+- (Futuro) Soy estudiante en Ingenieria en Sistemas de Información.
+- (2021)Analista en Sistema de Información.
+- (2020) Tecnico en Diseño y Programación en Videojuegos.
+- (2013) Cisco Certified Network Associate (CCNA)
 
-Here are some ideas to get you started:
+# Experiencia Académica
+Dentro del ámbito académico tuve una experiencia programando sitios web, blockchain, chats, videojuegos para pc y webs, tanto frontend como backend aunque personalmente me siento más cómodo en lo que respecta al backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Laboral
+- Desarrollador en Sistema de Información Geográfica (GIS)
+
+# Experiencia Laboral
+En el ámbito laboral llevo desarrollando y manteniendo una aplicación web para un sistema de información geográfica (GIS), tanto el aplicativo como los servicios de servido de capas vectoriales, base de datos, entre otros.
+
+# Skills
+- Javascript - Python - GDScript
+- Postgresql + Postgis - MySQL - MongoDB
+- VueJS - Bootstrap - Vanilla
+- NodeJS - Express - Sequelize - SocketIO
+- JWT - LeafletJS - Mapbox
+- Godot - Unity - Unreal - Blender
+
+# Algunos de mis repos
+- 
+
+***
