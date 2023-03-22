@@ -24,7 +24,4 @@ En el ámbito laboral llevo desarrollando y manteniendo una aplicación web para
 - JWT - LeafletJS - Mapbox
 - Godot - Unity - Unreal - Blender
 
-# Algunos de mis repos
-- 
-
 ***
