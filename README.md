@@ -3,7 +3,7 @@ Un apasionado por la tecnología y el desarrollo de aplicaciones como así tambi
 
 # Formación Académica
 - (Futuro) Estudiante de Ingeniería en Sistemas de Información.
-- (2021)Analista en Sistema de Información.
+- (2021) Analista en Sistema de Información.
 - (2020) Tecnico en Diseño y Programación en Videojuegos.
 - (2013) Cisco Certified Network Associate (CCNA)
 
