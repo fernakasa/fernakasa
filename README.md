@@ -19,9 +19,9 @@ En el ámbito laboral llevo desarrollando y manteniendo una aplicación web para
 # Skills
 - Javascript - Python - GDScript
 - Postgresql + Postgis - MySQL - MongoDB
-- VueJS - Bootstrap - Vanilla
+- React - Tailwind
 - NodeJS - Express - Sequelize - SocketIO
 - JWT - LeafletJS - Mapbox
-- Godot - Unity - Unreal - Blender
+- Godot - Unity - Unreal
 
 ***
