@@ -30,7 +30,7 @@
 ✅ QA en datasets para **modelos de aprendizaje profundo.**
 
 **🔹 PRÁCTICA PROFESIONAL | [Desarrollos Nea](https://www.desarrollosnea.com/)**  
-📅 *Marzo 2023 \- Diciembre 2023*  
+📅 *Abril 2023 \- Diciembre 2023*  
 ✅ **Desarrollo de un sistema IoT para el seguimiento de ganado** en tiempo real.  
 ✅ Uso de **LoRa** para transmisión de datos de largo alcance.  
 ✅ Creación de un **backend en Express** para procesar datos de los dispositivos.  
